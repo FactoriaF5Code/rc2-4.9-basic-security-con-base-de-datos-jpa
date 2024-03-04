@@ -1,0 +1,1 @@
+insert into members(name, password) values ('pepito', '12345');
